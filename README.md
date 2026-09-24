@@ -4,7 +4,7 @@
 
 Rogue MCP bridge for Adobe Photoshop - raster editing and exports for agents
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 
 ## Requirements
 
